@@ -9,7 +9,7 @@ public class Program
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public int Age { get; set; }
-
+    //
     // Lista ocen jest prywatna, aby nikt z zewnątrz nie mógł jej uszkodzić
     private List<int> _ratings = new List<int>();
 
