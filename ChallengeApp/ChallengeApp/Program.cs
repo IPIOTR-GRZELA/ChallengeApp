@@ -49,6 +49,6 @@ class Program
             Console.WriteLine($"Wiek: {bestEmployee.Age}");
             Console.WriteLine($"Wynik całkowity: {bestEmployee.TotalPoints}");
             Console.WriteLine("--------------------------------------");
-        }
+        }//
     }
 }
